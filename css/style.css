@@ -415,6 +415,16 @@ svg path {
   margin: 1rem 0;
 }
 
+.about .about-top-img-box {
+  display: flex;
+  justify-content: end;
+  margin-bottom: 1rem;
+}
+
+.about .about-top-img {
+  width: 15%;
+}
+
 .about-btn {
   display: flex;
   justify-content: end;
