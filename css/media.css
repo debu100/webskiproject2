@@ -101,6 +101,9 @@
   .about-btn {
     justify-content: center;
   }
+    .about .about-top-img-box {
+    justify-content: center;
+  }
   .collection {
     margin-top: 1rem;
   }
@@ -194,6 +197,9 @@
   .banner {
     padding-top: 10rem;
   }
+    .about .about-top-img-box {
+    justify-content: center;
+  }
   .footer-box:last-child {
     height: 9rem;
   }
@@ -232,6 +238,9 @@
     margin-top: 5rem;
   }
 
+    .about .about-top-img-box {
+    justify-content: center;
+  }
   .image-stack {
     flex-direction: row;
     left: 35%;
